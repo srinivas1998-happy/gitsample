@@ -1,2 +1,3 @@
 #git
-This is my app!
+
+Always be happy!
